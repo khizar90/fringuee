@@ -1,0 +1,645 @@
+
+
+@font-face {
+    font-family: 'regular';
+    src: url(../font/SF-Pro-Display-Regular.otf);
+}
+@font-face {
+    font-family: 'bold';
+    src: url(../font/SF-Pro-Display-Bold.otf);
+}
+
+@font-face {
+    font-family: 'light';
+    src: url(../font/SF-Pro-Display-Light.otf);
+}
+@font-face {
+    font-family: 'medium';
+    src: url(../font/SF-Pro-Display-Medium.otf);
+}
+
+
+.back1{
+    background-image: url(../images/p2.png);
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+header .container{
+    padding-top: 50px;
+}
+header .titleimg{
+    margin-top: 3rem;
+    display: flex;
+
+}
+header .dis, .dis2{
+    margin-top: 3rem;
+}
+.titleimg .image{
+    width: 20%;
+}
+.titleimg .title{
+    font-family: regular;
+    margin-left: 20px;
+    font-size: 50px;
+    color:  #349DFD;
+}
+.titleimg .title .tdis{
+    font-family: light;
+    font-size: 20px;
+    color: #404040;
+}
+header .dis{
+    font-family: regular;
+
+    color:  #349DFD;
+    font-size: 30px;
+}
+header .dis2{
+    font-family: regular;
+
+    color:  #404040;
+    font-size: 25px;
+}
+header .image2 img{
+    width: 100%;
+}
+
+
+
+
+.section1{
+    margin-top: 80px;
+}
+.section1 .title{
+    margin-top: 3rem;
+    font-family: medium;
+    width: 85%;
+    color: #349DFD;
+    font-size: 55px;
+}
+.section1 .col-md-12{
+    margin-top: 3rem;
+}
+
+
+.section2{
+ margin-top: 150px;
+}
+.section2 .title{
+    font-family: medium;
+   
+    font-size: 55px;
+    color: #F5F5F5;
+}
+.section2 .dis{
+    font-family: medium;
+
+    font-size: 55px;
+    color: #404040;
+}
+.section2 .image img{
+    margin-top: 100px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+
+.section3{
+ margin-top: 50px;
+}
+.section3 .title{
+    font-family: medium;
+
+    padding-top: 100px;
+    color: #349DFD;
+    font-size: 55px;
+}
+.section3 .title span{
+    color: #404040;
+}
+.section3 .image img{
+    margin-top: 100px;
+    width: 100%;
+  
+}
+.section3 .image1{
+    margin-top: 55%;
+}
+.section3 .image1 img{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+
+
+.section4{
+  margin-top: 100px;
+}
+.section4 .title{
+    font-family: medium;
+
+    width: 70%;
+    color: #404040;
+    font-size: 55px;
+}
+.section4 .title span{
+    color: #349DFD;
+}
+.section4 .image1{
+    margin-top: 150px;
+}
+.section4 .image1 img{
+    width: 100%;
+}
+.section4 .image2{
+    margin-top: 50px;
+}
+.section4 .image2 img{
+    width: 80%;
+}
+.section4 .image3 img{
+   width: 90%;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   
+}
+.section4 .image4{
+    margin-top: 100px;
+}
+.section4 .image4 img{
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   
+}
+
+
+.back2{
+    background-image: url(../images/p3.png);
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.section5 .container{
+    padding-top: 100px;
+}
+.section5 .title{
+    font-family: medium;
+
+   padding-left: 42px;
+    color: #404040;
+    font-size: 55px;
+}
+.section5 .title span{
+    color: #349DFD;
+}
+.section5 .image1{
+    margin-top: 100px;
+}
+.section5 .image1 img{
+    width: 90%;
+}
+.section5 .image{
+    margin-top: 170px;
+}
+
+.section5 .image img{
+    width: 90%;
+}
+
+
+.section6{
+    margin-top: 150px;
+    
+}
+.section6 .image{
+    margin-bottom: 20%;
+}
+.section6 .title{
+    font-family: medium;
+
+    margin: auto;
+    color: #fff;
+    width: 73%;   
+    font-size: 55px;
+    margin-top: 40%;
+}
+
+
+.section7{
+    margin-top: 120px;
+    
+}
+.section7 .title{
+    font-family: medium;
+
+    color: #404040;
+    font-size: 55px;
+    width: 70%;
+}
+.section7 .image{
+    margin-top: 3rem;
+}
+
+
+
+.section8{
+    background-image: url(../images/p4.png);
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 100px
+}
+.section8 .title{
+    font-family: medium;
+
+    padding-top: 100px;
+    color: #404040;
+    font-size: 55px;
+}
+.section8 .image{
+    width: 30%;
+    margin: auto;
+    margin-top: 80px;
+}
+.section8 .image img{
+    width: 100%;
+    
+}
+.section8 .download{
+    margin: auto;
+    width: 30%;
+    margin-top: 100px;
+}
+.section8 .download .title{
+    font-family: medium;
+    color: #349DFD;
+    font-size: 38px;
+
+}
+.section8 .download .title span{
+    color: #404040;
+}
+.section8 .download .image{
+    padding-bottom: 45%;
+
+    width: 100%
+}
+
+.section8 .download .image img{
+    width: 45%;
+}
+
+
+
+
+@media (max-width: 600px){
+   
+    header .container {
+        padding-top: 0px;
+    }
+    header .titleimg .image {
+        width: 30%;
+    }
+    header .titleimg .title {
+        margin-left: 10px;
+        font-size: 17px;
+        
+    }
+    .titleimg .title .tdis {
+        
+        font-size: 9px !important;
+     
+    }
+    header .dis {
+        font-size: 12px;
+    }
+  
+    header .dis2 {
+        font-size: 10px;
+    }
+    header .dis.mt-5{
+        margin-top: 0px;
+    }
+  
+    header .dis, .dis2{
+        margin-top: 0.5rem;
+    }
+
+
+    
+    .section1{
+        margin-top: 0px;
+    }
+    .section1 .title{
+        text-align: center;
+        margin-top: 2rem;
+        width: 100%;
+        color: #404040;
+        font-size: 15px;
+    }
+    .section1 .col-md-12{
+        margin-top: 1rem;
+    }
+
+
+    .section2{
+        margin-top: 30px;
+    }
+    .section2 .title{
+        color: #404040;
+        font-size: 15px;
+        text-align: center;
+    }
+    .section2 .dis{
+        text-align: center;
+        font-size: 15px;
+    }
+    .section2 .image img {
+        margin-top: 20px;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+
+    .section3 .title {
+        padding-top: 20px;
+        color: #404040;
+        font-size: 15px;
+    }
+    .section3 .image img{
+        margin-top: 20px;
+    }
+
+
+    .section4{
+        margin-top: 20px;
+    }
+    .section4 .title, .section4 .title span {
+        text-align: center;
+        width: 100%;
+        color: #404040;
+        font-size: 15px;
+    }
+
+    .section5 .container{
+        padding-top: 0px;
+    }
+    .section5 .title {
+        padding-left: 0px;
+        color: #404040;
+        font-size: 15px;
+    }
+    .section5 .image{
+        margin-top: 100px;
+    }
+    .section5 .image1{
+        margin-top: 30px;
+    }
+    .section5 .image1 img{
+        width: 100%;
+    }
+
+    .section6{
+        margin-top: 50px;
+    }
+    .section6 .title{
+        color: #404040;
+        width: 50%;
+        font-size: 15px;
+        margin-top: 40%;
+    }
+    
+
+    .section7{
+        margin-top: 30px;
+    }
+    .section7 .title {
+        color: #404040;
+        font-size: 15px;
+        width: 100%;
+        text-align: center;
+    }
+    .section7 .image{
+        margin-top: 1rem;
+    }
+
+    .section8{
+        margin-top: 50px;
+        height: auto;
+    }
+    .section8 .title{
+        padding-top: 30px;
+        font-size: 15px;
+    }
+    .section8 .image{
+        margin-top: 10px;
+    }
+    .section8 .download{
+        width: 50%;
+        margin-top: 10px;
+    }
+    .section8 .download .title{
+        padding-top: 10px;
+        font-size: 13px;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 900px) and (min-width: 601px){
+
+  
+    header .container {
+        padding-top: 0px;
+    }
+    header .titleimg .image {
+        width: 25%;
+    }
+    header .titleimg .title {
+        margin-left: 10px;
+        font-size: 25px;
+        
+    }
+    .titleimg .title .tdis {
+        font-size: 15px !important;
+     
+    }
+    header .dis {
+        font-size: 15px;
+    }
+  
+    header .dis2 {
+        font-size: 15px;
+    }
+   
+  
+    header .dis, .dis2{
+        margin-top: 2rem;
+    }
+
+
+    
+    .section1{
+        margin-top: 50px;
+    }
+    .section1 .title{
+        text-align: center;
+        margin-top: 3rem;
+        width: 100%;
+        color: #404040;
+        font-size: 25px;
+    }
+    .section1 .col-md-12{
+        margin-top: 3em;
+    }
+
+
+    .section2{
+        margin-top: 70px;
+    }
+    .section2 .title{
+        color: #404040;
+        font-size: 25px;
+        text-align: center;
+    }
+    .section2 .dis{
+        text-align: center;
+        font-size: 25px;
+    }
+    .section2 .image img {
+        margin-top: 50px;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+
+    .section3{
+        margin-top: 70px;
+    }
+    .section3 .title {
+        padding-top: 20px;
+        color: #404040;
+        font-size: 25px;
+    }
+    .section3 .image img{
+        margin-top: 20px;
+    }
+
+
+    .section4{
+        margin-top: 100px;
+    }
+    .section4 .title, .section4 .title span {
+        text-align: center;
+        width: 100%;
+        color: #404040;
+        font-size: 25px;
+    }
+    .section4 .image{
+        margin-top: 100px;
+    }
+
+    .section5{
+        margin-top: 50px;
+    }
+    .section5 .container{
+        padding-top: 0px;
+    }
+    .section5 .title {
+        padding-left: 25px;
+        color: #404040;
+        font-size: 25px;
+    }
+    .section5 .image{
+        margin-top: 130px;
+    }
+    .section5 .image1{
+        margin-top: 50px;
+    }
+    .section5 .image1 img{
+        width: 100%;
+    }
+
+    .section6{
+        margin-top: 150px;
+    }
+    .section6 .title{
+        color: #404040;
+        width: 50%;
+        font-size: 25px;
+        margin-top: 40%;
+    }
+    
+
+    .section7{
+        margin-top: 30px;
+    }
+    .section7 .title {
+        color: #404040;
+        font-size: 25px;
+        width: 100%;
+        text-align: center;
+    }
+    .section7 .image{
+        margin-top: 1rem;
+    }
+
+    .section8{
+        margin-top: 50px;
+        height: auto;
+    }
+    .section8 .title{
+        padding-top: 30px;
+        font-size: 25px;
+    }
+    .section8 .image{
+        margin-top: 50px;
+    }
+    .section8 .download{
+        width: 50%;
+        margin-top: 30px;
+    }
+    .section8 .download .title{
+        padding-top: 0px;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media (max-width: 1024px) and (min-width: 900px){
+    .section1 .title,.section2 .title,.section6 .title{
+        color: #404040;
+    }
+    .section8 .title{
+        padding-top: 0px;
+    }
+    .section8 .image{
+        margin-top: 30px;
+    }
+    .section8 .download{
+        width: 50%;
+        margin-top: 30px;
+    }
+    .section8 .download .title{
+        padding-top: 0px;
+        font-size: 40px;
+        text-align: center;
+    }
+}
